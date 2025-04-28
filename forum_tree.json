@@ -1,0 +1,142 @@
+{
+  "title": "Root",
+  "url": "https://greekgamerz.forumgreek.com/forum",
+  "has_topics": false,
+  "children": [
+    {
+      "title": "Κανόνες & Ανακοινώσεις",
+      "url": "https://greekgamerz.forumgreek.com/f22-forum",
+      "has_topics": true,
+      "children": []
+    },
+    {
+      "title": "Marketplace",
+      "url": "https://greekgamerz.forumgreek.com/f121-forum",
+      "has_topics": true,
+      "children": [
+        {
+          "title": "Παιχνίδια",
+          "url": "https://greekgamerz.forumgreek.com/f122-forum",
+          "has_topics": true,
+          "children": []
+        },
+        {
+          "title": "Προγράμματα",
+          "url": "https://greekgamerz.forumgreek.com/f127-forum",
+          "has_topics": false,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hacker's University",
+      "url": "https://greekgamerz.forumgreek.com/f21-forum",
+      "has_topics": true,
+      "children": []
+    },
+    {
+      "title": "Παιχνίδια",
+      "url": "https://greekgamerz.forumgreek.com/f10-forum",
+      "has_topics": true,
+      "children": [
+        {
+          "title": "First Person Shooter",
+          "url": "https://greekgamerz.forumgreek.com/f20-forum",
+          "has_topics": true,
+          "children": []
+        },
+        {
+          "title": "3rd Person Games",
+          "url": "https://greekgamerz.forumgreek.com/f24-forum",
+          "has_topics": true,
+          "children": []
+        },
+        {
+          "title": "Sport Games",
+          "url": "https://greekgamerz.forumgreek.com/f27-forum",
+          "has_topics": true,
+          "children": []
+        },
+        {
+          "title": "Strategy Games",
+          "url": "https://greekgamerz.forumgreek.com/f53-forum",
+          "has_topics": true,
+          "children": []
+        },
+        {
+          "title": "Hacks(bots,trainers,V.I.P hacks...)",
+          "url": "https://greekgamerz.forumgreek.com/f52-forum",
+          "has_topics": true,
+          "children": []
+        },
+        {
+          "title": "Game Creating",
+          "url": "https://greekgamerz.forumgreek.com/f71-forum",
+          "has_topics": true,
+          "children": []
+        },
+        {
+          "title": "Server Creating",
+          "url": "https://greekgamerz.forumgreek.com/f44-forum",
+          "has_topics": true,
+          "children": []
+        },
+        {
+          "title": "PSP games",
+          "url": "https://greekgamerz.forumgreek.com/f8-forum",
+          "has_topics": true,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Προγράμματα",
+      "url": "https://greekgamerz.forumgreek.com/f2-forum",
+      "has_topics": true,
+      "children": []
+    },
+    {
+      "title": "Pirated Cinema",
+      "url": "https://greekgamerz.forumgreek.com/f11-forum",
+      "has_topics": true,
+      "children": [
+        {
+          "title": "18+",
+          "url": "https://greekgamerz.forumgreek.com/f59-forum",
+          "has_topics": true,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Mobile Hacks & Tricks",
+      "url": "https://greekgamerz.forumgreek.com/f58-forum",
+      "has_topics": true,
+      "children": []
+    },
+    {
+      "title": "Μουσική & CD's",
+      "url": "https://greekgamerz.forumgreek.com/f1-forum",
+      "has_topics": true,
+      "children": []
+    },
+    {
+      "title": "Αστεία & Ψυχαγωγία",
+      "url": "https://greekgamerz.forumgreek.com/f5-forum",
+      "has_topics": true,
+      "children": []
+    },
+    {
+      "title": "Διάφορα",
+      "url": "https://greekgamerz.forumgreek.com/f19-forum",
+      "has_topics": true,
+      "children": []
+    },
+    {
+      "title": "Τηλεοπτικές Σειρές",
+      "url": "https://greekgamerz.forumgreek.com/f18-forum",
+      "has_topics": true,
+      "children": []
+    }
+  ]
+}
